@@ -1,8 +1,8 @@
 1 - Realizar Download do projeto pelo endereço -> https://github.com/egpjunior/laravel-series <br>
 2 - Criar o Banco de Dados series <br>
     create database series; <br>
-3 - Selecionar o Banco de Dados series
-    use series;
+3 - Selecionar o Banco de Dados series 
+    use series; <br>
 4 - Adicionar o projeto 'laravel-series' no seu editor PHP <br>
 5 - Renomear o arquivo .ev.example para .env <br>
 6 - No arquivo .env alterar o Banco de Dados MYSQL de laravel para series e salvar o arquivo <br>

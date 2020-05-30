@@ -15,7 +15,7 @@
 13 - Feche o navegador <br>
 14 - Executar o comando dentro do diretório c:\wamp64\www\laravelSeries> php artisan serve <br>
 15 - Abra um navegador e entre no seu ambiente <br>
-
+16 - http://127.0.0.1:8000/series
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">

@@ -1,5 +1,5 @@
-1 - Realizar Download do projeto pelo endereço -> https://github.com/egpjunior/laravel-series
-2 - Criar o Banco de Dados series
+1 - Realizar Download do projeto pelo endereço -> https://github.com/egpjunior/laravel-series <br>
+2 - Criar o Banco de Dados series <br>
     create database series;
 3 - Selecionar o Banco de Dados series
     use series;

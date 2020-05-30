@@ -1,3 +1,20 @@
+1 - Realizar Download do projeto pelo endereço -> https://github.com/egpjunior/laravel-series
+2 - Criar o Banco de Dados series
+    create database series;
+3 - Selecionar o Banco de Dados series
+    use series;
+4 - Adicionar o projeto 'laravel-series' no seu editor PHP
+5 - Renomear o arquivo .ev.example para .env
+6 - No arquivo .env alterar o Banco de Dados MYSQL de laravel para series e salvar o arquivo
+7 - Alterar usuário e senha do Mysql para o seu login de acesso. No exemplo está como usuário root e sem senha. 
+8 - Entrar no diretório no meu por exemplo: c:\wamp64\www\laravelSeries>
+9 - Executar o comando dentro do diretório c:\wamp64\www\laravelSeries> php artisan migrate 
+10 - Caso apareça a mensagem: No application encryption key has been specified que em português seria ... "Nenhuma chave de criptografia de aplicativo foi especificada"
+11 - Clique em Generate app key
+12 - Entre no cmd é execute o comando php artisan key:generate
+13 - Feche o navegador 
+14 - Executar o comando dentro do diretório c:\wamp64\www\laravelSeries> php artisan serve
+
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">

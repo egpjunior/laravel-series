@@ -1,19 +1,20 @@
 1 - Realizar Download do projeto pelo endereço -> https://github.com/egpjunior/laravel-series <br>
 2 - Criar o Banco de Dados series <br>
-    create database series;
+    create database series; <br>
 3 - Selecionar o Banco de Dados series
     use series;
-4 - Adicionar o projeto 'laravel-series' no seu editor PHP
-5 - Renomear o arquivo .ev.example para .env
-6 - No arquivo .env alterar o Banco de Dados MYSQL de laravel para series e salvar o arquivo
-7 - Alterar usuário e senha do Mysql para o seu login de acesso. No exemplo está como usuário root e sem senha. 
-8 - Entrar no diretório no meu por exemplo: c:\wamp64\www\laravelSeries>
-9 - Executar o comando dentro do diretório c:\wamp64\www\laravelSeries> php artisan migrate 
-10 - Caso apareça a mensagem: No application encryption key has been specified que em português seria ... "Nenhuma chave de criptografia de aplicativo foi especificada"
-11 - Clique em Generate app key
-12 - Entre no cmd é execute o comando php artisan key:generate
-13 - Feche o navegador 
+4 - Adicionar o projeto 'laravel-series' no seu editor PHP <br>
+5 - Renomear o arquivo .ev.example para .env <br>
+6 - No arquivo .env alterar o Banco de Dados MYSQL de laravel para series e salvar o arquivo <br>
+7 - Alterar usuário e senha do Mysql para o seu login de acesso. No exemplo está como usuário root e sem senha. <br>
+8 - Entrar no diretório no meu por exemplo: c:\wamp64\www\laravelSeries> <br>
+9 - Executar o comando dentro do diretório c:\wamp64\www\laravelSeries> php artisan migrate <br>
+10 - Caso apareça a mensagem: No application encryption key has been specified que em português seria ... "Nenhuma chave de criptografia de aplicativo foi especificada" <br>
+11 - Clique em Generate app key <br>
+12 - Entre no cmd é execute o comando php artisan key:generate <br>
+13 - Feche o navegador <br>
 14 - Executar o comando dentro do diretório c:\wamp64\www\laravelSeries> php artisan serve
+15 - Abra um navegador e entre no seu ambiente <br>
 
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
